@@ -31,20 +31,9 @@ function getRandomInt(max) {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
+
+But du jeu : 
 générer un chiffre en tre 0 et 10 et demander au
 bravo
 au dessus
